@@ -1,5 +1,4 @@
-<!-- Banner com imagem -->
-![Gatinho Preto e Lua Grande](https://i.imgur.com/y9Vm3js.png)
+
 
 # Olá, eu sou a Soso 👋
 
