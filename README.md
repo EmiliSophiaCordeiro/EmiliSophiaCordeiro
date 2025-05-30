@@ -46,10 +46,6 @@ Editar
 
 📬 Missão
 
-bash
-Copiar
-Editar
 > Fazer projetos legais
 > Aprender algo novo todo dia
 > Ajudar a comunidade dev
-
