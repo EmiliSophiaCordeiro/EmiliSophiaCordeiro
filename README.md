@@ -16,3 +16,40 @@
 > Nome: Sophia Cordeiro
 > Status: Voando entre commits e deploys
 
+
+🚀 Controles
+
+Ação	Tecla
+Voar	Café ☕
+Codar	Ctrl + S 💾
+Debugar	Chorar 😭
+Deploy	Git push 🚀
+
+🛠️ Habilidades
+
+markdown
+Copiar
+Editar
+🧠 Lógica de programação
+🎨 UI com bom gosto
+⚙️ APIs e integração
+🎮 Gosto por jogos indie
+🏆 Conquistas desbloqueadas
+
+ Primeiro PR aceito
+
+ Clone do Flappy Bird feito
+
+ Quebrei a produção e corrigi no mesmo dia
+
+ Dormi 8 horas seguidas (em breve)
+
+📬 Missão
+
+bash
+Copiar
+Editar
+> Fazer projetos legais
+> Aprender algo novo todo dia
+> Ajudar a comunidade dev
+<p align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" /> <br /> <strong>Pressione ⭐ para começar a jogar</strong> </p> ```
