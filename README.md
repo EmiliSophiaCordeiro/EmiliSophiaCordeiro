@@ -27,21 +27,16 @@ Deploy	Git push 🚀
 
 🛠️ Habilidades
 
-markdown
-Copiar
-Editar
 🧠 Lógica de programação
 🎨 UI com bom gosto
 ⚙️ APIs e integração
 🎮 Gosto por jogos indie
+
 🏆 Conquistas desbloqueadas
 
  Primeiro PR aceito
-
  Clone do Flappy Bird feito
-
  Quebrei a produção e corrigi no mesmo dia
-
  Dormi 8 horas seguidas (em breve)
 
 📬 Missão
