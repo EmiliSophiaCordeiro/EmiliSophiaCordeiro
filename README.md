@@ -52,4 +52,4 @@ Editar
 > Fazer projetos legais
 > Aprender algo novo todo dia
 > Ajudar a comunidade dev
-<p align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100" /> <br /> <strong>Pressione ⭐ para começar a jogar</strong> </p> ```
+
