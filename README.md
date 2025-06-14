@@ -29,7 +29,7 @@ Estudante na área de **Desenvolvimento de Sistemas** e futura dev (se eu não d
 
 ### 📲 Me encontra aqui
 
-[![Instagram](https://img.shields.io/badge/@ss_lamb-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuarioinsta)
+[![Instagram](https://img.shields.io/badge/@ss_lamb-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ss_lamb)
 
 ---
 
