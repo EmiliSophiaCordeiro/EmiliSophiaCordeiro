@@ -1,4 +1,5 @@
-###Sou a Sophia Cordeiro
+#Sou a Sophia Cordeiro
+
 — Estudante na área de **Desenvolvimento de Sistemas** e futura dev (se eu não desistir no meio do caminho).
 
 ### Gosto de programar quando eu entendo oque estou fazendo💋
