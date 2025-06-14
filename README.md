@@ -1,4 +1,4 @@
-# Sou a Sophia Cordeiro☾
+# Oie, sou a Sophia Cordeiro☾
 
 Estudante na área de **Desenvolvimento de Sistemas** e futura dev (se eu não desistir no meio do caminho).
 
