@@ -33,7 +33,7 @@ Estudante na área de **Desenvolvimento de Sistemas** e futura dev (se eu não d
 
 ---
 
-### 🐍 Snake Game Decorativo
+### 🐍 
 
 ![Snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
